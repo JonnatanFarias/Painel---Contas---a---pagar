@@ -25,8 +25,7 @@ const firebaseConfig = {
 <br>
 const app = initializeApp(firebaseConfig);
 <br>
-<p>Essas configurações inicias são de integrar o painel ao seu Firebase</p>
-<br>
-<p>No Firebase Auth, você terá que criar um e-mail e um senha para poder realizar login no painel.</p>
-<br>
-<p>Um outro fator também é imagem(avatar) na parte superior direita do painel, onde a imagem é circular, a mesma também vem do Firebase Storage, então você poderá subir uma imagem qualquer para o firebase com essa descricao 'ImagePerfill.jpeg' ou uma qualquer,mas pra isso você precisa editar no arquivo javascript.</p>
+<h3>Essas configurações inicias são de integrar o painel ao seu Firebase.</h3>
+<p>No Firebase Auth, você terá que criar um e-mail e um senha para poder realizar login no painel. Um outro fator também é imagem(avatar) na parte superior direita do painel, onde a imagem é circular, a mesma também vem do Firebase Storage, então você poderá subir uma imagem qualquer para o firebase com essa descricao 'ImagePerfill.jpeg' ou uma qualquer,mas pra isso você precisa editar no arquivo javascript.</p>
+<h2>💻 Tecnologias utilizadas</h2>
+
