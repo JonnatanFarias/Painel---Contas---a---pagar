@@ -12,3 +12,4 @@
 <li>Resumo</li>
 <p>Um resumo, onde o usuário poderá ver um total por cartão de crédito, tendo como filtro o mês e o usuário do cartão.</p>
 <h2>⚡Dependências</h2>
+<p>Este painel tem como integração o <strong>FIREBASE</strong>, para realização de <strong>(LOGIN) usando o Firebase Auth</strong>, <strong>(CONSULTAS/INSERÇÕES) usando o Firebase Realtime Database</strong>, portanto segue abaixo um passo a passo para o funcionamento do painel seja realizado.</p>
