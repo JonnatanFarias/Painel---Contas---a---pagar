@@ -1,0 +1,99 @@
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%; 
+}
+
+body {
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #fafafa;
+    transition: all 0.3s ease-in-out;
+    
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.form-signin {
+    max-width: 400px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 1px 1px 10px #888;
+    border-radius: 10px;
+}
+
+.form-floating {
+    width: 100%;
+}
+
+p {
+    margin: 0;
+}
+
+.text-center {
+    text-align: center;   
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+dialog {
+    width: 25%;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 1px 1px 10px #888;
+}
+
+dialog::backdrop {
+    background-color: #212121;
+    opacity: 0.8;
+}
+
+.spiner{
+    position: absolute;
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: -1; 
+}
+
+/*MODO ESCURO LOGIN*/
+.btnDarkMode {
+    position: absolute;
+    left: 80px;   
+}
+
+.btnDarkMode p {
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.dark-mode {
+    background-color: #212121;
+    transition: 0.2s ease-in-out;
+}
+
+.dark-mode p {
+    color: white;
+}

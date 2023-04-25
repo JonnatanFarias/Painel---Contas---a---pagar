@@ -1,0 +1,42 @@
+.nav-item{
+    display: flex;
+    gap: 15px;
+}
+.navbar-nav {
+    display: flex;
+    width: 300px;
+    align-items: center;
+}
+.titulo{
+    margin-top: 40px;
+}
+.forms{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.btnPesquisar{
+    display: flex;
+    align-items: center;
+}
+
+.tabList{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    width: 100%;
+    margin-top: 40px;
+
+}
+
+.list-group-item{
+    padding: 10px;
+    width: 100%;
+}
+
+.txtTotal{
+    margin-top: 30px;
+}

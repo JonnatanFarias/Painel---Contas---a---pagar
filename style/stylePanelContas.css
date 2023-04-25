@@ -1,0 +1,71 @@
+.avatar {
+    display: flex;
+    width: 80px;
+}
+.navbar-brand {
+    margin: 0;
+}
+.nav-item{
+    display: flex;
+    gap: 15px;
+}
+.navbar-nav {
+    display: flex;
+    width: 300px;
+    align-items: center;
+}
+.conteudoFiltro{
+    margin-top: 30px;
+}
+
+.form-control {
+    width: 280px;
+    height: 40px;
+}
+
+.mb-3 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.formDados {
+    display: flex;
+    flex-direction: column;
+}
+
+.btnPesquisar{
+    margin-top: 30px;
+}
+
+.table{
+    visibility: hidden;
+}
+
+
+.totais{
+  visibility: hidden; 
+  margin-bottom: 30px;
+  
+}
+
+.txtTotais{
+    display: flex;
+    width: 50%;
+    justify-content: right;
+
+}
+.txt2{
+   width: 80px;
+   margin-left: 5px;
+}
+
+.txtTotal{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
