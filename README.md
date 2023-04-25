@@ -7,5 +7,8 @@
 <p>Aqui o usuário poderá escolher qual cartão de crédito deseja inserir a conta, em seguida escolhe qual o usuário do cartão de crédito, escolhe o mês e por fim a desrição da compra e valor.</p>
 <br>
 <li>Contas lançadas</li>
-<p><Nesta página o usuário ver se forma simples e objetiva, os lançamentos que foram lançados anteriormente./p>
+<p>Nesta página o usuário ver se forma simples e objetiva, os lançamentos que foram lançados anteriormente.</p>
 <br>
+<li>Resumo</li>
+<p>Um resumo, onde o usuário poderá ver um total por cartão de crédito, tendo como filtro o mês e o usuário do cartão.</p>
+<h2>⚡Dependências</h2>
